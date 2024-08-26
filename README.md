@@ -7,7 +7,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <hr/>
 
-<h2>Live link 🌍📡 - [ https://ed-techplatformplatform-q9a257e40-raj-singhs-projects-a7c18ac1.vercel.app/ ]</h2>
+<h2>Live link 🌍📡 - [ https://ed-techplatformplatform-git-main-raj-singhs-projects-a7c18ac1.vercel.app/ ]</h2>
 <hr/>
 
 
